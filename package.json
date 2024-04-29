@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://maciekt07.github.io/clicker-game",
+  "homepage": "https://github.com/heinryanselm/Bee-Clicker",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
